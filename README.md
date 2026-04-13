@@ -20,6 +20,7 @@ Wrote a python script that pulls cloudtrail logs using AWS API and places them o
 Made personal AWS API site built on flask (Will be open sourced soon)
 Learned React and wrote a portfolio in the language!...Which is now deprecated as of 9/1/22, but will return!
 Have a whole CI/CD pipeline going in my Github Actions for creation of docker containers and deployments to Kubernetes(mainly EKS) stacks!
+
 Hello World!! 👋🏾
 💬 Ask Me Anything!
 📫 email!: sdeviprasanth0330@gmail.com
