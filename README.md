@@ -2,9 +2,6 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-terryyoung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/terry-young/)](https://www.linkedin.com/in/terry-young/) 
-[![Gmail Badge](https://img.shields.io/badge/-terryyoung1192@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terryyoung1192@gmail.com)](mailto:terryyoung1192@gmail.com)
-
 🚀 Hey All! Welcome to my page! Hopefully you see somethings that catch your attention! Dont hesitate to reach out or give me some ideas of more to put in here of things that would be of interest! More projects to come!
 
 ## ⚡ Technologies
@@ -20,9 +17,8 @@ Talk to me about
 
 ## 🧑🏾‍💻 Accomplishments!
 - AWS Certified Solutions Architect Assoc.
-- Microsoft AZ-900
 - Created an my own AI agent with open source models! Cleaning up and making more stream lined for public from what I have
-- First open sourced project (still improving) [jobDetective](https://github.com/terryyoung22/Job-detective)
+- First open sourced project (still improving)
 - Wrote a python script that pulls cloudtrail logs using AWS API and places them on your desktop each day (executed by cron)
 - Made personal AWS API site built on flask (Will be open sourced soon)
 - Learned React and wrote a portfolio in the language!...Which is now deprecated as of 9/1/22, but will return!
@@ -30,10 +26,10 @@ Talk to me about
 
 ## Hello World!! 👋🏾
 - 💬 Ask Me Anything!
-- 📫 email!: [terryyoung1192@gmail.com](mailto:terryyoung1192@gmail.com)
+- 📫 email!: [sdeviprasanth0330@gmail.com](mailto:sdeviprasanth0330@gmail.com)
 - 🎯 Portfolio site: [Portfolio](http://portfolio.typrojects.io/) - Deprecated! This page is my current bio! will be adding more to it!
 - 🔔 Checkout and Follow my github!:- [Github](http://github.typrojects.io/)
 - ⚡ Fun fact: The code in your website play a major role in appealing to search engines! WEIRD!
 
 
-```⭐️ From [Terry Young](https://github.com/terryyoung22)```
+```⭐️ From [Sunkara Devi Prasanth](https://github.com/sunkara-30)```
